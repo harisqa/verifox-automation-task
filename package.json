@@ -1,0 +1,17 @@
+{
+  "name": "verifox",
+  "version": "1.0.0",
+  "description": "Verifox Task for Automation Tester - Haris Suljovic",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "author": "Haris Suljovic",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-cucumber-js": "^1.7.0"
+  },
+  "dependencies": {
+    "chromedriver": "^77.0.0"
+  }
+}
