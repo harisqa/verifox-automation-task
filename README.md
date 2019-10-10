@@ -4,7 +4,7 @@ There's only one feature file containing three scenarios for DSL calculator user
 
 ## Run the tests
 
-From project root run simply run:
+From project root simply run:
 
 ```bash
 npm install
